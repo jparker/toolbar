@@ -1,3 +1,3 @@
-module Toolbar
+class Toolbar
   VERSION = "0.0.1"
 end
